@@ -1,0 +1,15 @@
+div {
+    display: block;
+}
+
+div input {
+    height: 50px;
+    width=100%;
+}
+
+.container {
+    width: 100%;
+    align-content: center;
+    justify-content: center;
+}
+/*This is a comment*/
